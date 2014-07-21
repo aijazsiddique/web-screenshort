@@ -27,6 +27,6 @@ Just use shortcode generator to generate shortcode
 
 == Screenshots ==
 
-1. https://docs.google.com/file/d/0B2MiKb2quUeuZy05Y3RZbEdnMnM/edit?usp=drivesdk
-2. https://docs.google.com/file/d/0B2MiKb2quUeudGROMXR5OS1HWlU/edit?usp=drivesdk
-3. https://docs.google.com/file/d/0B2MiKb2quUeud0dzaHlSN01xQTg/edit?usp=drivesdk
+1. https://github.com/aijazsiddique/web-screenshort/blob/master/screenshort1.png
+2. https://github.com/aijazsiddique/web-screenshort/blob/master/screenshort2.png
+3. https://github.com/aijazsiddique/web-screenshort/blob/master/screenshort3.png
